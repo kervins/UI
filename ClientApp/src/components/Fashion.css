@@ -1,0 +1,15 @@
+﻿.slide {
+    background-color: antiquewhite;
+}
+.ims {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.hth {
+    text-align: center;
+}
+.caption {
+    text-align: center;
+}
